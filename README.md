@@ -8,11 +8,11 @@
 
 ## Pravidla
 
-1. Každou úlohu vyřeš jedním SQL dotazem.
-2. Použij tabulky `student`, `film` a `vstupenka`.
-3. Spojení tabulek zapiš jako `JOIN`. `LEFT JOIN` ani `RIGHT JOIN` nepoužívej.
-4. Odevzdej SQL dotaz ke každé úloze.
-5. U úloh s řazením dodrž všechna uvedená pravidla řazení.
+1. Každou úlohu vyřešte jedním SQL dotazem.
+2. Použijte tabulky `student`, `film` a `vstupenka`.
+3. Spojení tabulek zapište jako `JOIN`. `LEFT JOIN` ani `RIGHT JOIN` nepoužívej.
+4. Odevzdejte SQL dotaz ke každé úloze.
+5. U úloh s řazením dodržujte všechna uvedená pravidla řazení.
 
 ## Úloha 1 – Výpis všech studentů
 
